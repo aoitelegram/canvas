@@ -1,0 +1,22 @@
+{
+  "name": "canvas",
+  "version": "1.0.0",
+  "description": "Canvas extension for aoitelegram.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "Asayukiii",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.55"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.1",
+    "aoitelegram": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "tsc-alias": "^1.8.10",
+    "typescript": "^5.5.4",
+    "uglify-js": "^3.19.3"
+  }
+}

@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Custom
+__cache__
+__test__
+package-lock.json
+pnpm-lock.yaml
